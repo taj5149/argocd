@@ -25,6 +25,6 @@ spec:
     spec:
       containers:
         - name: fb-pod2
-          image: thajuddin9339/batch15:python_flaskapp
+          image: thajuddin9339/batch15:facebook_httpd
           ports:
             - containerPort: 8080
